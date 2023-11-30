@@ -2,5 +2,7 @@
 main:
   - title: "CV"
     url: /assets/cv/CV_WonjoonJin.pdf
+  - title: "About"
+    url: /about/
   # - title: "Posts"
   #   url: /collection-archive/
