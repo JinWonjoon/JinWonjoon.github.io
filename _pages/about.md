@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 ## About Me
-![Teaser image 1](./assets/bg3.jpg){: width="80%" height="100%"} <br/>
+![Teaser image 1](./assets/bg3.jpg) <br/>
 
 I am a Ph.D student at POSTECH [Computer Graphics Lab](http://cg.postech.ac.kr/).
 My research interest focuses on the intersection of neural rendering and generative models.

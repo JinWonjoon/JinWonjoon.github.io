@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about_backup/
 ---
 ## About Me
 <!-- ![Teaser image 1](./assets/bg2.jpg){: width="80%" height="100%"} <br/> -->
