@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 ## About Me
-![Teaser image 1](./assets/bg3.jpg) <br/>
+![Teaser image 1](./assets/introduce.png) <br/>
 
-I am a Ph.D student at POSTECH [Computer Graphics Lab](http://cg.postech.ac.kr/).
-My research interest focuses on the intersection of neural rendering and generative models.
-I am now advised by [Sunghyun Cho](https://www.scho.pe.kr/). <br/>
+I am a CSE PhD student at POSTECH [Computer Graphics Lab](http://cg.postech.ac.kr/) since 2021.
+My research interest lies at the intersection of neural rendering and generative models, with a recent focus on video generation.
+I am now advised by Prof. [Sunghyun Cho](https://www.scho.pe.kr/). <br/>
 
 I will be joining an internship to Microsoft Research Asia as a research intern on September, 2024. <br/>
 
