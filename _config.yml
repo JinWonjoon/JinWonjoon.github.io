@@ -298,3 +298,8 @@ defaults:
       classes: wide
       author_profile: true
       share: true
+  - scope:
+      path: ""
+      type: Publications
+    values:
+      layout: default
