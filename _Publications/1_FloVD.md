@@ -5,10 +5,10 @@ publication: '<em>Accepted to the IEEE/CVF Conference on Computer Vision and Pat
 header:
   teaser: /assets/publications/flovd/teaser.png
   page: https://jinwonjoon.github.io/flovd_site/
+excerpt: >
+  <p>
+    <a href="https://jinwonjoon.github.io/flovd_site/" target="_blank">[project page]</a>
+    <a href="https://arxiv.org/abs/2502.08244" target="_blank">[arXiv]</a>
+    <a href="https://github.com/JinWonjoon/FloVD/" target="_blank">[github]</a>
+  </p>
 ---
-
-<p>
-  <a href="https://jinwonjoon.github.io/flovd_site/" target="_blank">[project page]</a>
-  <a href="https://arxiv.org/abs/2502.08244" target="_blank">[arXiv]</a>
-  <a href="https://github.com/JinWonjoon/FloVD/" target="_blank">[github]</a>
-</p>
